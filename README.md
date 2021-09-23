@@ -155,7 +155,7 @@ Go to the repo on GitHub, refresh the page, and check the file `hello.py` -- you
 
 #### Driver:
 
-The final step is for you to **push** these files from your computer to GitHub. Click the "Push" button at the bottom of the Git pane in Atom to do this, and wait a few seconds for this to finish.
+The final step is for you to **push** these files from your computer to GitHub (i.e. upload them). Click the `...` icon next to "Source Control" again, and click "Push". Wait a few seconds for this to finish.
 
 > **Terminal commands:** type `git push origin main` and press Enter.
 
